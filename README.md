@@ -1,27 +1,8 @@
 # JustText
-Just a Text editor. 🙃
+Just a *Mini* Text editor. 🙃
 
-![GitHub Banner](https://repository-images.githubusercontent.com/444603005/b88f983b-06ae-4405-82f7-265ecc17e8d5)
+JustText for OS X(10.11+ not on Yosemite currently.)
 
-<p class="tab norm" style="background-color:#fff;color:#D0D0D0;padding:1em;margin-bottom:1em">"But why you reinvent the wheel, what functionality this app can do while other can’t"
-
-
-"Well that is the thing."
-
-"There are other text editors out there."
-
-"But I want to make something simple."
-
-"Nononsense per-say(I really hope I'm using that term correctly.)"
-
-"I want something anyone can get."
-
-"No branding on it."
-
-"No wierd logo."
-
-"Just Text"
-
-"Just what it is."
-
-"A Text View."</p>
+Original JustText: https://github.com/Squid4572/JustText
+![iPad Mini "Mini" from Apple Website](https://user-images.githubusercontent.com/80015221/151625913-8916d3a7-ba6d-4837-be13-4eb45e108eca.png)
+![iPad Mini "Mini" Logo from Apple Website](https://user-images.githubusercontent.com/80015221/151626129-cc1d700d-e136-4aad-b36f-8ce4f373937e.svg)
