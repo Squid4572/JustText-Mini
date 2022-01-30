@@ -5,6 +5,41 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>9EBBFC43-6271-4BB4-B24A-3EBEE7F12D1D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9EBBFC43-6271-4BB4-B24A-3EBEE7F12D1D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>JustText Mini project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>JustText Mini</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build JustText Mini</string>
+			<key>timeStartedRecording</key>
+			<real>665266896.28710699</real>
+			<key>timeStoppedRecording</key>
+			<real>665266910.27188396</real>
+			<key>title</key>
+			<string>Build JustText Mini</string>
+			<key>uniqueIdentifier</key>
+			<string>9EBBFC43-6271-4BB4-B24A-3EBEE7F12D1D</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
